@@ -1,7 +1,7 @@
 # Bayou Bees — bayoubees.com
 
 The standalone website for **Bayou Bees**, a Bayouland Ag Enterprises farm in Crowley, LA.
-Sister site: [Bayouland Creamery](https://bayoulanddairy.com).
+Sister site: [Bayouland Creamery](https://bayoulandcreamery.com).
 
 ```
 index.html    → the whole site (story, shop, follow along, order form)
